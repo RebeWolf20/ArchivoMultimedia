@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ArchivoMultimedia</string>
+    <string name="btn_url">Mediante URL</string>
+</resources>
